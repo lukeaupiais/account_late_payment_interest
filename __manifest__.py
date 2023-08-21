@@ -1,4 +1,6 @@
 
+# -*- coding: utf-8 -*-
+
 {
     'name': 'Late Payment Interest',
     'version': '1.0',
